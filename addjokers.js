@@ -629,17 +629,6 @@ let jokers = [
     rarity: "Common"
   },
   {
-    name: "Suit Alley",
-    text: [
-      "{C:diamonds}Diamond{} and {C:clubs}Club{} cards",
-      "gain {C:chips}+12{} Chips when scored",
-      "{C:hearts}Heart{} and {C:spades}Spade{} cards",
-      "gain {C:mult}+3{} Mult when scored"
-    ],
-    image_url: "assets/2x/j_mmc_suit_alley.png",
-    rarity: "Common"
-  },
-  {
     name: "Tax Collector",
     text: [
       "Gives {C:green}$1{}, {C:red}$2{} or {C:legendary}$4",
