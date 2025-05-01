@@ -52,7 +52,6 @@ local config = {
     finishingBlowJoker = true,
     auroraBorealisJoker = true,
     historicalJoker = true,
-    suitAlleyJoker = true,
     printerJoker = true,
     trainingWheelsJoker = true,
     horseshoeJoker = true,
